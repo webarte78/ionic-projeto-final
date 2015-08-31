@@ -10,15 +10,15 @@ O projeto inicia com o template blank do Ionic e é desenvolvido pelos próprios
 
 Sendo assim, pull requests em branco ou com conteúdo insignificante, serão descartados. 
 
-As características do estão listadas abaixo e os desenvolvedores devem se basear nelas para a criação do projeto. 
+As características do projeto estão listadas abaixo e os desenvolvedores devem se basear nelas para a criação do mesmo. 
 
 As tecnologias usadas são escolha dos próprios desenvolvedores que não devem estar limitados a nada, exceto no uso do Ionic como base de desenvolvimento. 
 
-Após todas as características básicas estarem concluídas, o projeto será publicado na Play Store, contendo o nome de cada colaborador. Isso não limita novos pull requests, já que ainda serão permitidas melhorias, correções e atualizações diversas. 
+Após todas as características básicas estarem concluídas, o projeto será publicado na Play Store, contendo o nome de cada colaborador. Isso não limita novos pull requests, já que ainda serão permitidas melhorias, correções e atualizações diversas.
 
-Importante informar que a Lithium não comercializará o aplicativo e nem exibirá anúncios no mesmo. Além de todo o crédito da criação, pertence aos colaboradores deste projeto. 
+Importante informar que a Lithium não comercializará o aplicativo e nem exibirá anúncios no mesmo. Além de todo o crédito da criação, pertencer aos colaboradores deste projeto. 
 
-## Caracteríticas básicas do projeto
+## Características básicas do projeto
 
 - Deve ser construído um aplicativo que funcione como um boletim escolar para controle pessoal.
 - Inicialmente, o usuário deve cadastrar seu nome e o tipo de boletim (bimestral ou trimestral). 
