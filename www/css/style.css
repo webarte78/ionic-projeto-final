@@ -1,1 +1,35 @@
 /* Empty. Add your own CSS if you like */
+/** Styling for the username field **/
+.errors p {
+  color: red;
+}
+body {
+  background:#2b2f3f;	
+}
+.bar.bar-royal .title {
+    color: #fff;
+   	
+}
+.bar.bar-royal, .platform-android .bar-header.bar-royal.bar, .platform-override .bar-header.bar-royal.bar {
+    border-color: #2b2f3f;
+    background-color: #2b2f3f;
+    background-image: linear-gradient(0deg, #563098, #563098 50%, transparent 50%);
+    color: #fff;
+}
+.button.button-royal {
+    border-color: #03888a;
+    background-color: #03888a;
+    color: #fff;
+}
+.bar-subheader {
+    background-color: #41c2ea;
+    color:#fff;
+}
+.bar-subheader h2{
+	color:#fff;
+}
+.bar-royal .button, .platform-android .bar-header.bar-royal .button, .platform-override .bar-header.bar-royal .button {
+    border-color: #41C2EA;
+    background-color: #41C2EA;
+    color: #fff;
+}
